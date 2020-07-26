@@ -1,0 +1,3 @@
+0 Accpted
+3 Rejected
+total students detected 3
